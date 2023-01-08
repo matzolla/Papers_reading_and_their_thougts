@@ -8,8 +8,11 @@
 
 - The paper on `transformer` entitled `attention is all you need` link [here](https://arxiv.org/abs/1706.03762) a very great and concise explanation of the paper by `Jay Alammar` [here](https://jalammar.github.io/illustrated-transformer/)
 - Word2Vec concise explanation by Jay Alammar [here](https://jalammar.github.io/illustrated-word2vec/)
+- TopicBert by `Maarten` [here](https://paperswithcode.com/paper/bertopic-neural-topic-modeling-with-a-class/review/)
 
 #### Stable diffusion
 
 - Link to explanation [here](https://jalammar.github.io/illustrated-stable-diffusion/)
+
+
 
