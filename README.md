@@ -10,6 +10,10 @@
 - Word2Vec concise explanation by Jay Alammar [here](https://jalammar.github.io/illustrated-word2vec/)
 - TopicBert by `Maarten` [here](https://paperswithcode.com/paper/bertopic-neural-topic-modeling-with-a-class/review/)
 
+#### CV
+
+- The paper on passion fruit disease detection using fatser-rcnn [here](https://www.linkedin.com/posts/allassan-nken_makerere-passion-fruits-disease-detection-activity-6926294850124316672-xvWk?utm_source=share&utm_medium=member_desktop)
+
 #### Stable diffusion
 
 - Link to explanation [here](https://jalammar.github.io/illustrated-stable-diffusion/)
