@@ -19,6 +19,10 @@
 
 - Link to explanation [here](https://jalammar.github.io/illustrated-stable-diffusion/)
 
+#### Brain Tumor detection using transfer-learning
+
+- Link [here](https://www.kaggle.com/code/brsdincer/brain-tumor-prediction-new-data-full-explanation)
+
 #### Some of my WedOO.ai Slide presentations
 
 - Introduction a l'intelligence artificielle (data Jan 2023) [here](https://docs.google.com/presentation/d/1Karl8TdZ0DQjUfCLxOpfK4rk5uAxIssihVwOZMvGzIQ/edit?usp=sharing)
