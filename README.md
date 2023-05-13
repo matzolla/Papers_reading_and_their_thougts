@@ -1,4 +1,4 @@
-### My thought process on research papers in `NLP`, `Computer Vision` and `Foundation of Machine Learning`
+#### My thought process on research papers in `NLP`, `Computer Vision` and `Foundation of Machine Learning`
 #### Sample cover letter:
 
 - Here's the [link](https://github.com/acecreamu/ai-residency)
