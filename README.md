@@ -1,6 +1,6 @@
 #### My thought process on research papers in `NLP`, `Computer Vision` and `Foundation of Machine Learning`
 #### Sample cover letter:
-
+```python
 - Here's the [link](https://github.com/acecreamu/ai-residency)
 
 
@@ -28,5 +28,5 @@
 - Introduction a l'intelligence artificielle (data Jan 2023) [here](https://docs.google.com/presentation/d/1Karl8TdZ0DQjUfCLxOpfK4rk5uAxIssihVwOZMvGzIQ/edit?usp=sharing)
 - Topic modelling using BertTopic [coming soon](https://)
 
-
+```
 
